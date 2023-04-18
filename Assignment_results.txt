@@ -1,6 +1,12 @@
 1.Create pull request
 
-Result: To create a pull request, first need to ensure that I need to have two branches in my repository. 
+Result: To create a pull request, first need to ensure that I need to have two branches in my repository.
+
+Git checkout -b branch1
+git pull origin main
+git push origin branch1
+
+
 
 2.Merge 2 branches
 
