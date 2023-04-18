@@ -1,0 +1,12 @@
+1.Create pull request
+
+Result: To create a pull request, first need to ensure that I need to have two branches in my repository. 
+
+2.Merge 2 branches
+
+3.Check difference in 2 branches
+4.Delete remote repository
+5.Generating pull request from UI
+6.Resolve Conflicts and merge from UI
+7.Merging from GIT Bash
+8.Use reset command to revert the changes
