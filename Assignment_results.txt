@@ -10,8 +10,14 @@ git push origin branch1
 
 2.Merge 2 branches
 
+Result: Git merge branch1
+
 3.Check difference in 2 branches
+
+Result: Git diff main branch1
+
 4.Delete remote repository
+
 5.Generating pull request from UI
 6.Resolve Conflicts and merge from UI
 7.Merging from GIT Bash
